@@ -10,7 +10,7 @@
   
   <!-- Linguagens mais utilizadas -->
   <a href="https://github.com/vitorneris">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" alt="Linguagens mais utilizadas" height="180em" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorneris&layout=compact&theme=dark" alt="Linguagens mais utilizadas" height="180em" />
   </a>
 </div>
  
