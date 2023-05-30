@@ -1,7 +1,13 @@
-<!-- Título -->
-<h1 align="center">Olá, eu sou o Vitor!</h1>
+## Hello everyone! 👋
 
-<!-- Div para alinhamento dos elementos -->
+- 💻 I am an aspiring Brazilian student, deeply passionate about programming and eager to grow in the field..
+- 🌐 Interest in web development.
+- 🐍 I'm currently focused on learning Python, and I've also been actively practicing HTML and CSS.
+
+<!-- Contador de visualização -->
+![Profile Views](https://komarev.com/ghpvc/?username=vitorneris)
+
+<!-- Div para alinhar os quadros -->
 <div align="center">
   <!-- Estatísticas do GitHub -->
   <a href="https://github.com/vitorneris">
