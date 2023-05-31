@@ -1,6 +1,6 @@
 ## Hello everyone! 👋
 
-- 💻📚 I am Brazilian student, deeply passionate about programming and eager to grow in the field..
+- 💻📚 I am Brazilian student, deeply passionate about programming and eager to grow in the field.
 - 🌐 Interest in web development.
 - 🐍 I'm currently focused on learning Python, and I've also been actively practicing HTML and CSS.
 
@@ -21,11 +21,11 @@
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="25" width="40" /></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="25" width="40" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="25" width="40" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="25" width="50" /></td>
   </tr>
 </table>
 
-- 🔧 Ferramentas de Desenvolvimento: Git, VS Code
+- 🔧 Development Tools: Git, VS Code
 
 ## Contacts 👤
 <!-- Seção de contatos -->
